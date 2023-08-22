@@ -1,0 +1,6 @@
+Tentei criar um código simples que contém uma lista com números de 1 a 60 para um "jogo de mega sena".
+Criei uma função para um jogo fixo e outro em que o Random gere jogos aleatórios e compare com o jogo escolhido por mim para ver em quantas vezes é necessário para acertar.
+Mas como podem ver o código está com os seguintes erros: 
+ 1. Não consegui impedir que os números da Lista Random se repitam dentro da lista para comparar ao jogo. Queria algo que excluisse esses números repetidos. Sei que conjuntos não repetem, mas não da pra usar a Random em conjuntos, até onde sei.
+ 2. Outro problema é que os números mesmo aparecendo nas duas listas comparadas, eles não são entendidos pelo código como sendo iguais. Talvês se eu aplicar o shorted nas duas listas funcione.
+Criei esse código só por curiosidade, para testar as estruturas de dados mesmo.
